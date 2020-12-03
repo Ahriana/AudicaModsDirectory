@@ -1,0 +1,107 @@
+{
+  "ArenaLoader": {
+    "Name": "Arena Loader",
+    "Author": "octoberU",
+    "RepoName": "Arena-Loader"
+  },
+  "AutoRecenterDisabler": {
+    "Name": "Auto Recenter Disabler",
+    "Author": "Contiinuum",
+    "RepoName": "AutoRecenterDisabler"
+  },
+  "ChainFixer": {
+    "Name": "Chain Fixer",
+    "Author": "octoberU",
+    "RepoName": "AudicaChainFixer"
+  },
+  "CustomModifiers": {
+    "Name": "Custom Modifiers",
+    "Author": "Alternity156",
+    "RepoName": "CustomModifiers"
+  },
+  "FollowCamera": {
+    "Name": "Follow Camera",
+    "Author": "Contiinuum",
+    "RepoName": "AudicaFollowCamera"
+  },
+  "GameplaySettings": {
+    "Name": "Gameplay Settings",
+    "Author": "Contiinuum",
+    "RepoName": "AudicaGameplaySettings"
+  },
+  "GrindMode": {
+    "Name": "Grind Mode",
+    "Author": "Contiinuum",
+    "RepoName": "Grind-Mode"
+  },
+  "GunBeamRedirectionDisabler": {
+    "Name": "Gun Beam Redirection Disabler",
+    "Author": "Alternity156",
+    "RepoName": "GunBeamRedirectionDisabler"
+  },
+  "HitScoreVisualizer": {
+    "Name": "Hit Score Visializer",
+    "Author": "Mettra",
+    "RepoName": "HitScoreVisializer_MelonLoader"
+  },
+  "HMDDetectionDisabler": {
+    "Name": "HMD Detection Disabler",
+    "Author": "Contiinuum",
+    "RepoName": "AudicaHMDDetectionDisabler"
+  },
+  "MenuGrabDisabler": {
+    "Name": "Menu Grab Disabler",
+    "Author": "Alternity156",
+    "RepoName": "MenuGrabDisabler"
+  },
+  "ParticleKiller": {
+    "Name": "Particle Killer",
+    "Author": "octoberU",
+    "RepoName": "ParticleKiller"
+  },
+  "RandomSong": {
+    "Name": "Random Song",
+    "Author": "Contiinuum",
+    "RepoName": "RandomSong"
+  },
+  "ScorePercentage": {
+    "Name": "Score Percentage",
+    "Author": "Alternity156",
+    "RepoName": "AudicaScorePercentage"
+  },
+  "SpectatorCamFix": {
+    "Name": "Spectator Cam Fix",
+    "Author": "Contiinuum",
+    "RepoName": "SpectatorCamFix"
+  },
+  "SongBrowser": {
+    "Name": "Song Browser",
+    "Author": "octoberU",
+    "RepoName": "SongBrowser"
+  },
+  "SongRequest": {
+    "Name": "Song Request",
+    "Author": "Alternity156",
+    "RepoName": "SongRequest"
+  },
+  "SongSettings": {
+    "Name": "Song Settings",
+    "Author": "octoberU",
+    "RepoName": "SongSettings"
+  },
+  "TimingAssist": {
+    "Name": "Timing Assist",
+    "Author": "octoberU",
+    "RepoName": "TimingAssist"
+  },
+  "TrippyMenus": {
+    "Name": "Trippy Menus",
+    "Author": "Alternity156",
+    "RepoName": "AudicaTrippyMenu"
+  },
+  "ScoreOverlay": {
+    "Name": "Score Overlay",
+    "Author": "octoberU",
+    "RepoName": "ScoreOverlay"
+  }
+}
