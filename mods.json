@@ -9,10 +9,10 @@
     "Author": "Contiinuum",
     "RepoName": "AutoRecenterDisabler"
   },
-  "ChainFixer": {
-    "Name": "Chain Fixer",
+  "ColoredChains": {
+    "Name": "Colored chains",
     "Author": "octoberU",
-    "RepoName": "AudicaChainFixer"
+    "RepoName": "ColoredChains"
   },
   "CustomModifiers": {
     "Name": "Custom Modifiers",
