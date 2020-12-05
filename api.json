@@ -1,0 +1,268 @@
+{
+    "ArenaLoader": {
+        "Name": "Arena Loader",
+        "Author": "octoberU",
+        "RepoName": "Arena-Loader",
+        "Version": "0.1.5",
+        "Error": false,
+        "Download": [
+            {
+                "name": "ArenaLoader.dll",
+                "browser_download_url": "https://github.com/octoberU/Arena-Loader/releases/download/0.1.5/ArenaLoader.dll"
+            }
+        ]
+    },
+    "AutoRecenterDisabler": {
+        "Name": "Auto Recenter Disabler",
+        "Author": "Contiinuum",
+        "RepoName": "AutoRecenterDisabler",
+        "Version": "1.0.1",
+        "Error": false,
+        "Download": [
+            {
+                "name": "AutoRecenterDisabler.dll",
+                "browser_download_url": "https://github.com/Contiinuum/AutoRecenterDisabler/releases/download/1.0.1/AutoRecenterDisabler.dll"
+            }
+        ]
+    },
+    "ColoredChains": {
+        "Name": "Colored chains",
+        "Author": "octoberU",
+        "RepoName": "ColoredChains",
+        "Error": true
+    },
+    "CustomModifiers": {
+        "Name": "Custom Modifiers",
+        "Author": "Alternity156",
+        "RepoName": "CustomModifiers",
+        "Version": "0.2.1",
+        "Error": false,
+        "Download": [
+            {
+                "name": "CustomModifiers.dll",
+                "browser_download_url": "https://github.com/Alternity156/CustomModifiers/releases/download/0.2.1/CustomModifiers.dll"
+            }
+        ]
+    },
+    "FollowCamera": {
+        "Name": "Follow Camera",
+        "Author": "Contiinuum",
+        "RepoName": "AudicaFollowCamera",
+        "Version": "1.2.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "FollowCamera.dll",
+                "browser_download_url": "https://github.com/Contiinuum/AudicaFollowCamera/releases/download/1.2.0/FollowCamera.dll"
+            }
+        ]
+    },
+    "GameplaySettings": {
+        "Name": "Gameplay Settings",
+        "Author": "Contiinuum",
+        "RepoName": "AudicaGameplaySettings",
+        "Version": "1.1.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "GameplaySettings.dll",
+                "browser_download_url": "https://github.com/Contiinuum/AudicaGameplaySettings/releases/download/1.1.0/GameplaySettings.dll"
+            }
+        ]
+    },
+    "GrindMode": {
+        "Name": "Grind Mode",
+        "Author": "Contiinuum",
+        "RepoName": "Grind-Mode",
+        "Version": "2.1.6",
+        "Error": false,
+        "Download": [
+            {
+                "name": "GrindMode.dll",
+                "browser_download_url": "https://github.com/Contiinuum/Grind-Mode/releases/download/2.1.6/GrindMode.dll"
+            }
+        ]
+    },
+    "GunBeamRedirectionDisabler": {
+        "Name": "Gun Beam Redirection Disabler",
+        "Author": "Alternity156",
+        "RepoName": "GunBeamRedirectionDisabler",
+        "Version": "1.1.1",
+        "Error": false,
+        "Download": [
+            {
+                "name": "GunBeamRedirectionDisabler.dll",
+                "browser_download_url": "https://github.com/Alternity156/GunBeamRedirectionDisabler/releases/download/1.1.1/GunBeamRedirectionDisabler.dll"
+            }
+        ]
+    },
+    "HitScoreVisualizer": {
+        "Name": "Hit Score Visializer",
+        "Author": "Mettra",
+        "RepoName": "HitScoreVisializer_MelonLoader",
+        "Version": "0.2.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "HitScoreVisualizer.dll",
+                "browser_download_url": "https://github.com/Mettra/HitScoreVisializer_MelonLoader/releases/download/0.2.0/HitScoreVisualizer.dll"
+            }
+        ]
+    },
+    "HMDDetectionDisabler": {
+        "Name": "HMD Detection Disabler",
+        "Author": "Contiinuum",
+        "RepoName": "AudicaHMDDetectionDisabler",
+        "Version": "1.1.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "HMDDetectionDisabler.dll",
+                "browser_download_url": "https://github.com/Contiinuum/AudicaHMDDetectionDisabler/releases/download/1.1.0/HMDDetectionDisabler.dll"
+            }
+        ]
+    },
+    "MenuGrabDisabler": {
+        "Name": "Menu Grab Disabler",
+        "Author": "Alternity156",
+        "RepoName": "MenuGrabDisabler",
+        "Version": "0.1.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "MenuGrabDisabler.dll",
+                "browser_download_url": "https://github.com/Alternity156/MenuGrabDisabler/releases/download/0.1.0/MenuGrabDisabler.dll"
+            }
+        ]
+    },
+    "ParticleKiller": {
+        "Name": "Particle Killer",
+        "Author": "octoberU",
+        "RepoName": "ParticleKiller",
+        "Version": "0.1.1",
+        "Error": false,
+        "Download": [
+            {
+                "name": "ParticleKiller.dll",
+                "browser_download_url": "https://github.com/octoberU/ParticleKiller/releases/download/0.1.1/ParticleKiller.dll"
+            }
+        ]
+    },
+    "RandomSong": {
+        "Name": "Random Song",
+        "Author": "Contiinuum",
+        "RepoName": "RandomSong",
+        "Version": "1.0.4",
+        "Error": false,
+        "Download": [
+            {
+                "name": "RandomSong.dll",
+                "browser_download_url": "https://github.com/Contiinuum/RandomSong/releases/download/1.0.4/RandomSong.dll"
+            }
+        ]
+    },
+    "ScorePercentage": {
+        "Name": "Score Percentage",
+        "Author": "Alternity156",
+        "RepoName": "AudicaScorePercentage",
+        "Version": "1.1.1",
+        "Error": false,
+        "Download": [
+            {
+                "name": "ScorePercentage.dll",
+                "browser_download_url": "https://github.com/Alternity156/AudicaScorePercentage/releases/download/1.1.1/ScorePercentage.dll"
+            }
+        ]
+    },
+    "SpectatorCamFix": {
+        "Name": "Spectator Cam Fix",
+        "Author": "Contiinuum",
+        "RepoName": "SpectatorCamFix",
+        "Version": "1.0.1",
+        "Error": false,
+        "Download": [
+            {
+                "name": "SpectatorCamFix.dll",
+                "browser_download_url": "https://github.com/Contiinuum/SpectatorCamFix/releases/download/1.0.1/SpectatorCamFix.dll"
+            }
+        ]
+    },
+    "SongBrowser": {
+        "Name": "Song Browser",
+        "Author": "octoberU",
+        "RepoName": "SongBrowser",
+        "Version": "2.0.1",
+        "Error": false,
+        "Download": [
+            {
+                "name": "SongBrowser.dll",
+                "browser_download_url": "https://github.com/octoberU/SongBrowser/releases/download/2.0.1/SongBrowser.dll"
+            }
+        ]
+    },
+    "SongRequest": {
+        "Name": "Song Request",
+        "Author": "Alternity156",
+        "RepoName": "SongRequest",
+        "Version": "1.0.2",
+        "Error": false,
+        "Download": [
+            {
+                "name": "SongRequest.dll",
+                "browser_download_url": "https://github.com/Alternity156/SongRequest/releases/download/1.0.2/SongRequest.dll"
+            }
+        ]
+    },
+    "SongSettings": {
+        "Name": "Song Settings",
+        "Author": "octoberU",
+        "RepoName": "SongSettings",
+        "Version": "0.1.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "SongSettings.dll",
+                "browser_download_url": "https://github.com/octoberU/SongSettings/releases/download/0.1.0/SongSettings.dll"
+            }
+        ]
+    },
+    "TimingAssist": {
+        "Name": "Timing Assist",
+        "Author": "octoberU",
+        "RepoName": "TimingAssist",
+        "Version": "1.1.3",
+        "Error": false,
+        "Download": [
+            {
+                "name": "TimingAssist.dll",
+                "browser_download_url": "https://github.com/octoberU/TimingAssist/releases/download/1.1.3/TimingAssist.dll"
+            }
+        ]
+    },
+    "TrippyMenus": {
+        "Name": "Trippy Menus",
+        "Author": "Alternity156",
+        "RepoName": "AudicaTrippyMenu",
+        "Version": "1.1.2",
+        "Error": false,
+        "Download": [
+            {
+                "name": "TrippyMenus.dll",
+                "browser_download_url": "https://github.com/Alternity156/AudicaTrippyMenu/releases/download/1.1.2/TrippyMenus.dll"
+            }
+        ]
+    },
+    "ScoreOverlay": {
+        "Name": "Score Overlay",
+        "Author": "octoberU",
+        "RepoName": "ScoreOverlay",
+        "Version": "2.0.3",
+        "Error": false,
+        "Download": [
+            {
+                "name": "ScoreOverlay.dll",
+                "browser_download_url": "https://github.com/octoberU/ScoreOverlay/releases/download/2.0.3/ScoreOverlay.dll"
+            }
+        ]
+    }
+}
