@@ -99,6 +99,11 @@
     "Author": "Alternity156",
     "RepoName": "AudicaTrippyMenu"
   },
+  "SongDataLoader": {
+    "Name": "Song Data Loader",
+    "Author": "MeepsKitten",
+    "RepoName": "Audica-SongDataLoader"
+  },
   "ScoreOverlay": {
     "Name": "Score Overlay",
     "Author": "octoberU",
