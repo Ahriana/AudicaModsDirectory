@@ -6,7 +6,7 @@
   },
   "AutoRecenterDisabler": {
     "Name": "Auto Recenter Disabler",
-    "Author": "Contiinuum",
+    "Author": "Alternity156, Continuum",
     "RepoName": "AutoRecenterDisabler"
   },
   "ColoredChains": {
@@ -21,17 +21,17 @@
   },
   "FollowCamera": {
     "Name": "Follow Camera",
-    "Author": "Contiinuum",
+    "Author": "Alternity156, Continuum",
     "RepoName": "AudicaFollowCamera"
   },
   "GameplaySettings": {
     "Name": "Gameplay Settings",
-    "Author": "Contiinuum",
+    "Author": "Alternity156, Continuum",
     "RepoName": "AudicaGameplaySettings"
   },
   "GrindMode": {
     "Name": "Grind Mode",
-    "Author": "Contiinuum",
+    "Author": "Continuum",
     "RepoName": "Grind-Mode"
   },
   "GunBeamRedirectionDisabler": {
@@ -46,7 +46,7 @@
   },
   "HMDDetectionDisabler": {
     "Name": "HMD Detection Disabler",
-    "Author": "Contiinuum",
+    "Author": "Alternity156, Continuum",
     "RepoName": "AudicaHMDDetectionDisabler"
   },
   "MenuGrabDisabler": {
@@ -59,11 +59,6 @@
     "Author": "octoberU",
     "RepoName": "ParticleKiller"
   },
-  "RandomSong": {
-    "Name": "Random Song",
-    "Author": "Contiinuum",
-    "RepoName": "RandomSong"
-  },
   "ScorePercentage": {
     "Name": "Score Percentage",
     "Author": "Alternity156",
@@ -71,7 +66,7 @@
   },
   "SpectatorCamFix": {
     "Name": "Spectator Cam Fix",
-    "Author": "Contiinuum",
+    "Author": "Continuum",
     "RepoName": "SpectatorCamFix"
   },
   "SongBrowser": {
