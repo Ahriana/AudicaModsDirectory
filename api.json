@@ -1,4 +1,18 @@
 {
+    "ModSettings": {
+        "Name": "Mod Settings",
+        "Author": "octoberU",
+        "RepoName": "ModSettings",
+        "DisplayAuthor": "octoberU",
+        "Version": "0.1.3",
+        "Error": false,
+        "Download": [
+            {
+                "name": "ModSettings.dll",
+                "browser_download_url": "https://github.com/octoberU/ModSettings/releases/download/0.1.3/ModSettings.dll"
+            }
+        ]
+    },
     "ArenaLoader": {
         "Name": "Arena Loader",
         "Author": "octoberU",
@@ -290,6 +304,20 @@
             {
                 "name": "ColoredChains.dll",
                 "browser_download_url": "https://github.com/octoberU/ColoredChains/releases/download/0.1.1/ColoredChains.dll"
+            }
+        ]
+    },
+    "TimingAttack": {
+        "Name": "TimingAttack",
+        "Author": "Ahriana",
+        "RepoName": "AUDICA-Timing-Attack",
+        "DisplayAuthor": "Ahriana",
+        "Version": "1.0.0.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "TimingAttack.dll",
+                "browser_download_url": "https://github.com/Ahriana/AUDICA-Timing-Attack/releases/download/1.0.0.0/TimingAttack.dll"
             }
         ]
     }
