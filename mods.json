@@ -2,101 +2,121 @@
   "ArenaLoader": {
     "Name": "Arena Loader",
     "Author": "octoberU",
-    "RepoName": "Arena-Loader"
+    "RepoName": "Arena-Loader",
+    "DisplayAuthor": "octoberU"
   },
   "AutoRecenterDisabler": {
     "Name": "Auto Recenter Disabler",
     "Author": "Contiinuum",
-    "RepoName": "AutoRecenterDisabler"
+    "RepoName": "AutoRecenterDisabler",
+    "DisplayAuthor": "Contiinuum"
   },
   "CustomModifiers": {
     "Name": "Custom Modifiers",
     "Author": "Alternity156",
-    "RepoName": "CustomModifiers"
+    "RepoName": "CustomModifiers",
+    "DisplayAuthor": "Alternity156"
   },
   "FollowCamera": {
     "Name": "Follow Camera",
     "Author": "Contiinuum",
-    "RepoName": "AudicaFollowCamera"
+    "RepoName": "AudicaFollowCamera",
+    "DisplayAuthor": "Contiinuum"
   },
   "GameplaySettings": {
     "Name": "Gameplay Settings",
     "Author": "Contiinuum",
-    "RepoName": "AudicaGameplaySettings"
+    "RepoName": "AudicaGameplaySettings",
+    "DisplayAuthor": "Contiinuum"
   },
   "GrindMode": {
     "Name": "Grind Mode",
     "Author": "Contiinuum",
-    "RepoName": "Grind-Mode"
+    "RepoName": "Grind-Mode",
+    "DisplayAuthor": "Contiinuum"
   },
   "GunBeamRedirectionDisabler": {
     "Name": "Gun Beam Redirection Disabler",
     "Author": "Alternity156",
-    "RepoName": "GunBeamRedirectionDisabler"
+    "RepoName": "GunBeamRedirectionDisabler",
+    "DisplayAuthor": "Alternity156"
   },
   "HitScoreVisualizer": {
     "Name": "Hit Score Visializer",
     "Author": "Mettra",
-    "RepoName": "HitScoreVisializer_MelonLoader"
+    "RepoName": "HitScoreVisializer_MelonLoader",
+    "DisplayAuthor": "Mettra"
   },
   "HMDDetectionDisabler": {
     "Name": "HMD Detection Disabler",
     "Author": "Contiinuum",
-    "RepoName": "AudicaHMDDetectionDisabler"
+    "RepoName": "AudicaHMDDetectionDisabler",
+    "DisplayAuthor": "Contiinuum"
   },
   "MenuGrabDisabler": {
     "Name": "Menu Grab Disabler",
     "Author": "Alternity156",
-    "RepoName": "MenuGrabDisabler"
+    "RepoName": "MenuGrabDisabler",
+    "DisplayAuthor": "Alternity156"
   },
   "ParticleKiller": {
     "Name": "Particle Killer",
     "Author": "octoberU",
-    "RepoName": "ParticleKiller"
+    "RepoName": "ParticleKiller",
+    "DisplayAuthor": "octoberU"
   },
   "ScorePercentage": {
     "Name": "Score Percentage",
     "Author": "Alternity156",
-    "RepoName": "AudicaScorePercentage"
+    "RepoName": "AudicaScorePercentage",
+    "DisplayAuthor": "Alternity156"
   },
   "SpectatorCamFix": {
     "Name": "Spectator Cam Fix",
     "Author": "Contiinuum",
-    "RepoName": "SpectatorCamFix"
+    "RepoName": "SpectatorCamFix",
+    "DisplayAuthor": "Contiinuum"
   },
   "SongBrowser": {
     "Name": "Song Browser",
     "Author": "octoberU",
-    "RepoName": "SongBrowser"
+    "RepoName": "SongBrowser",
+    "DisplayAuthor": "octoberU"
   },
   "SongRequest": {
     "Name": "Song Request",
     "Author": "Alternity156",
-    "RepoName": "SongRequest"
+    "RepoName": "SongRequest",
+    "DisplayAuthor": "Alternity156"
   },
   "SongSettings": {
     "Name": "Song Settings",
     "Author": "octoberU",
-    "RepoName": "SongSettings"
+    "RepoName": "SongSettings",
+    "DisplayAuthor": "octoberU"
   },
   "TimingAssist": {
     "Name": "Timing Assist",
     "Author": "octoberU",
-    "RepoName": "TimingAssist"
+    "RepoName": "TimingAssist",
+    "DisplayAuthor": "octoberU"
   },
   "TrippyMenus": {
     "Name": "Trippy Menus",
     "Author": "Alternity156",
-    "RepoName": "AudicaTrippyMenu"
+    "RepoName": "AudicaTrippyMenu",
+    "DisplayAuthor": "Alternity156"
   },
   "SongDataLoader": {
     "Name": "Song Data Loader",
     "Author": "MeepsKitten",
-    "RepoName": "Audica-SongDataLoader"
+    "RepoName": "Audica-SongDataLoader",
+    "DisplayAuthor": "MeepsKitten"
   },
   "ScoreOverlay": {
     "Name": "Score Overlay",
     "Author": "octoberU",
-    "RepoName": "ScoreOverlay"
+    "RepoName": "ScoreOverlay",
+    "DisplayAuthor": "octoberU"
   }
 }
