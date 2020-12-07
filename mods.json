@@ -15,7 +15,7 @@
     "Name": "Auto Recenter Disabler",
     "Author": "Contiinuum",
     "RepoName": "AutoRecenterDisabler",
-    "DisplayAuthor": "Contiinuum"
+    "DisplayAuthor": "Alternity156, Continuum"
   },
   "CustomModifiers": {
     "Name": "Custom Modifiers",
@@ -27,19 +27,19 @@
     "Name": "Follow Camera",
     "Author": "Contiinuum",
     "RepoName": "AudicaFollowCamera",
-    "DisplayAuthor": "Contiinuum"
+    "DisplayAuthor": "Alternity156, Continuum"
   },
   "GameplaySettings": {
     "Name": "Gameplay Settings",
     "Author": "Contiinuum",
     "RepoName": "AudicaGameplaySettings",
-    "DisplayAuthor": "Contiinuum"
+    "DisplayAuthor": "Alternity156, Continuum"
   },
   "GrindMode": {
     "Name": "Grind Mode",
     "Author": "Contiinuum",
     "RepoName": "Grind-Mode",
-    "DisplayAuthor": "Contiinuum"
+    "DisplayAuthor": "Continuum"
   },
   "GunBeamRedirectionDisabler": {
     "Name": "Gun Beam Redirection Disabler",
@@ -57,7 +57,7 @@
     "Name": "HMD Detection Disabler",
     "Author": "Contiinuum",
     "RepoName": "AudicaHMDDetectionDisabler",
-    "DisplayAuthor": "Contiinuum"
+    "DisplayAuthor": "Alternity156, Continuum"
   },
   "MenuGrabDisabler": {
     "Name": "Menu Grab Disabler",
@@ -81,7 +81,7 @@
     "Name": "Spectator Cam Fix",
     "Author": "Contiinuum",
     "RepoName": "SpectatorCamFix",
-    "DisplayAuthor": "Contiinuum"
+    "DisplayAuthor": "Continuum"
   },
   "SongBrowser": {
     "Name": "Song Browser",
