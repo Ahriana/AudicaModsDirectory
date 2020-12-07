@@ -3,6 +3,7 @@
         "Name": "Arena Loader",
         "Author": "octoberU",
         "RepoName": "Arena-Loader",
+        "DisplayAuthor": "octoberU",
         "Version": "0.1.5",
         "Error": false,
         "Download": [
@@ -16,6 +17,7 @@
         "Name": "Auto Recenter Disabler",
         "Author": "Contiinuum",
         "RepoName": "AutoRecenterDisabler",
+        "DisplayAuthor": "Contiinuum",
         "Version": "1.0.1",
         "Error": false,
         "Download": [
@@ -29,6 +31,7 @@
         "Name": "Custom Modifiers",
         "Author": "Alternity156",
         "RepoName": "CustomModifiers",
+        "DisplayAuthor": "Alternity156",
         "Version": "0.2.1",
         "Error": false,
         "Download": [
@@ -42,6 +45,7 @@
         "Name": "Follow Camera",
         "Author": "Contiinuum",
         "RepoName": "AudicaFollowCamera",
+        "DisplayAuthor": "Contiinuum",
         "Version": "1.2.0",
         "Error": false,
         "Download": [
@@ -55,6 +59,7 @@
         "Name": "Gameplay Settings",
         "Author": "Contiinuum",
         "RepoName": "AudicaGameplaySettings",
+        "DisplayAuthor": "Contiinuum",
         "Version": "1.1.0",
         "Error": false,
         "Download": [
@@ -68,6 +73,7 @@
         "Name": "Grind Mode",
         "Author": "Contiinuum",
         "RepoName": "Grind-Mode",
+        "DisplayAuthor": "Contiinuum",
         "Version": "2.1.6",
         "Error": false,
         "Download": [
@@ -81,6 +87,7 @@
         "Name": "Gun Beam Redirection Disabler",
         "Author": "Alternity156",
         "RepoName": "GunBeamRedirectionDisabler",
+        "DisplayAuthor": "Alternity156",
         "Version": "1.1.1",
         "Error": false,
         "Download": [
@@ -94,6 +101,7 @@
         "Name": "Hit Score Visializer",
         "Author": "Mettra",
         "RepoName": "HitScoreVisializer_MelonLoader",
+        "DisplayAuthor": "Mettra",
         "Version": "0.2.0",
         "Error": false,
         "Download": [
@@ -107,6 +115,7 @@
         "Name": "HMD Detection Disabler",
         "Author": "Contiinuum",
         "RepoName": "AudicaHMDDetectionDisabler",
+        "DisplayAuthor": "Contiinuum",
         "Version": "1.1.0",
         "Error": false,
         "Download": [
@@ -120,6 +129,7 @@
         "Name": "Menu Grab Disabler",
         "Author": "Alternity156",
         "RepoName": "MenuGrabDisabler",
+        "DisplayAuthor": "Alternity156",
         "Version": "0.1.0",
         "Error": false,
         "Download": [
@@ -133,6 +143,7 @@
         "Name": "Particle Killer",
         "Author": "octoberU",
         "RepoName": "ParticleKiller",
+        "DisplayAuthor": "octoberU",
         "Version": "0.1.1",
         "Error": false,
         "Download": [
@@ -146,6 +157,7 @@
         "Name": "Score Percentage",
         "Author": "Alternity156",
         "RepoName": "AudicaScorePercentage",
+        "DisplayAuthor": "Alternity156",
         "Version": "1.1.1",
         "Error": false,
         "Download": [
@@ -159,6 +171,7 @@
         "Name": "Spectator Cam Fix",
         "Author": "Contiinuum",
         "RepoName": "SpectatorCamFix",
+        "DisplayAuthor": "Contiinuum",
         "Version": "1.0.1",
         "Error": false,
         "Download": [
@@ -172,6 +185,7 @@
         "Name": "Song Browser",
         "Author": "octoberU",
         "RepoName": "SongBrowser",
+        "DisplayAuthor": "octoberU",
         "Version": "2.0.1",
         "Error": false,
         "Download": [
@@ -185,6 +199,7 @@
         "Name": "Song Request",
         "Author": "Alternity156",
         "RepoName": "SongRequest",
+        "DisplayAuthor": "Alternity156",
         "Version": "1.0.2",
         "Error": false,
         "Download": [
@@ -198,6 +213,7 @@
         "Name": "Song Settings",
         "Author": "octoberU",
         "RepoName": "SongSettings",
+        "DisplayAuthor": "octoberU",
         "Version": "0.1.0",
         "Error": false,
         "Download": [
@@ -211,6 +227,7 @@
         "Name": "Timing Assist",
         "Author": "octoberU",
         "RepoName": "TimingAssist",
+        "DisplayAuthor": "octoberU",
         "Version": "1.1.3",
         "Error": false,
         "Download": [
@@ -224,6 +241,7 @@
         "Name": "Trippy Menus",
         "Author": "Alternity156",
         "RepoName": "AudicaTrippyMenu",
+        "DisplayAuthor": "Alternity156",
         "Version": "1.1.2",
         "Error": false,
         "Download": [
@@ -237,6 +255,7 @@
         "Name": "Song Data Loader",
         "Author": "MeepsKitten",
         "RepoName": "Audica-SongDataLoader",
+        "DisplayAuthor": "MeepsKitten",
         "Version": "1.1.0",
         "Error": false,
         "Download": [
@@ -250,12 +269,27 @@
         "Name": "Score Overlay",
         "Author": "octoberU",
         "RepoName": "ScoreOverlay",
+        "DisplayAuthor": "octoberU",
         "Version": "2.0.3",
         "Error": false,
         "Download": [
             {
                 "name": "ScoreOverlay.dll",
                 "browser_download_url": "https://github.com/octoberU/ScoreOverlay/releases/download/2.0.3/ScoreOverlay.dll"
+            }
+        ]
+    },
+    "ColoredChains": {
+        "Name": "Colored Chains",
+        "Author": "octoberU",
+        "RepoName": "ColoredChains",
+        "DisplayAuthor": "octoberU",
+        "Version": "0.1.1",
+        "Error": false,
+        "Download": [
+            {
+                "name": "ColoredChains.dll",
+                "browser_download_url": "https://github.com/octoberU/ColoredChains/releases/download/0.1.1/ColoredChains.dll"
             }
         ]
     }
