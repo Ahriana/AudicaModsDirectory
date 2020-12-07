@@ -25,12 +25,6 @@
             }
         ]
     },
-    "ColoredChains": {
-        "Name": "Colored chains",
-        "Author": "octoberU",
-        "RepoName": "ColoredChains",
-        "Error": true
-    },
     "CustomModifiers": {
         "Name": "Custom Modifiers",
         "Author": "Alternity156",
@@ -148,19 +142,6 @@
             }
         ]
     },
-    "RandomSong": {
-        "Name": "Random Song",
-        "Author": "Contiinuum",
-        "RepoName": "RandomSong",
-        "Version": "1.0.4",
-        "Error": false,
-        "Download": [
-            {
-                "name": "RandomSong.dll",
-                "browser_download_url": "https://github.com/Contiinuum/RandomSong/releases/download/1.0.4/RandomSong.dll"
-            }
-        ]
-    },
     "ScorePercentage": {
         "Name": "Score Percentage",
         "Author": "Alternity156",
@@ -249,6 +230,19 @@
             {
                 "name": "TrippyMenus.dll",
                 "browser_download_url": "https://github.com/Alternity156/AudicaTrippyMenu/releases/download/1.1.2/TrippyMenus.dll"
+            }
+        ]
+    },
+    "SongDataLoader": {
+        "Name": "Song Data Loader",
+        "Author": "MeepsKitten",
+        "RepoName": "Audica-SongDataLoader",
+        "Version": "1.1.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "SongDataLoader.dll",
+                "browser_download_url": "https://github.com/MeepsKitten/Audica-SongDataLoader/releases/download/v1.1.0/SongDataLoader.dll"
             }
         ]
     },
