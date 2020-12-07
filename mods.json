@@ -1,4 +1,10 @@
 {
+  "ModSettings": {
+    "Name": "Mod Settings",
+    "Author": "octoberU",
+    "RepoName": "ModSettings",
+    "DisplayAuthor": "octoberU"
+  },
   "ArenaLoader": {
     "Name": "Arena Loader",
     "Author": "octoberU",
