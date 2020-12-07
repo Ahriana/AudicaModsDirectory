@@ -132,9 +132,15 @@
     "DisplayAuthor": "octoberU"
   },
   "TimingAttack": {
-    "Name": "TimingAttack",
+    "Name": "Timing Attack",
     "Author": "Ahriana",
     "RepoName": "AUDICA-Timing-Attack",
     "DisplayAuthor": "Ahriana"
+  },
+  "TwitchModifiers": {
+    "Name": "Twitch Modifiers",
+    "Author": "Contiinuum",
+    "RepoName": "TwitchModifiers",
+    "DisplayAuthor": "Continuum"
   }
 }

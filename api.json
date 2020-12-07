@@ -308,7 +308,7 @@
         ]
     },
     "TimingAttack": {
-        "Name": "TimingAttack",
+        "Name": "Timing Attack",
         "Author": "Ahriana",
         "RepoName": "AUDICA-Timing-Attack",
         "DisplayAuthor": "Ahriana",
@@ -318,6 +318,20 @@
             {
                 "name": "TimingAttack.dll",
                 "browser_download_url": "https://github.com/Ahriana/AUDICA-Timing-Attack/releases/download/1.0.0.0/TimingAttack.dll"
+            }
+        ]
+    },
+    "TwitchModifiers": {
+        "Name": "Twitch Modifiers",
+        "Author": "Contiinuum",
+        "RepoName": "TwitchModifiers",
+        "DisplayAuthor": "Continuum",
+        "Version": "2.0.4",
+        "Error": false,
+        "Download": [
+            {
+                "name": "TwitchModifiers.dll",
+                "browser_download_url": "https://github.com/Contiinuum/TwitchModifiers/releases/download/2.0.4/TwitchModifiers.dll"
             }
         ]
     }
