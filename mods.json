@@ -124,5 +124,11 @@
     "Author": "octoberU",
     "RepoName": "ColoredChains",
     "DisplayAuthor": "octoberU"
+  },
+  "TimingAttack": {
+    "Name": "TimingAttack",
+    "Author": "Ahriana",
+    "RepoName": "AUDICA-Timing-Attack",
+    "DisplayAuthor": "Ahriana"
   }
 }
