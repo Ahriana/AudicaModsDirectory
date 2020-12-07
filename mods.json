@@ -9,11 +9,6 @@
     "Author": "Contiinuum",
     "RepoName": "AutoRecenterDisabler"
   },
-  "ColoredChains": {
-    "Name": "Colored chains",
-    "Author": "octoberU",
-    "RepoName": "ColoredChains"
-  },
   "CustomModifiers": {
     "Name": "Custom Modifiers",
     "Author": "Alternity156",
@@ -58,11 +53,6 @@
     "Name": "Particle Killer",
     "Author": "octoberU",
     "RepoName": "ParticleKiller"
-  },
-  "RandomSong": {
-    "Name": "Random Song",
-    "Author": "Contiinuum",
-    "RepoName": "RandomSong"
   },
   "ScorePercentage": {
     "Name": "Score Percentage",
