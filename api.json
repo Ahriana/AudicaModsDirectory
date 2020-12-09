@@ -209,20 +209,6 @@
             }
         ]
     },
-    "SongRequest": {
-        "Name": "Song Request",
-        "Author": "Alternity156",
-        "RepoName": "SongRequest",
-        "DisplayAuthor": "Alternity156",
-        "Version": "1.0.2",
-        "Error": false,
-        "Download": [
-            {
-                "name": "SongRequest.dll",
-                "browser_download_url": "https://github.com/Alternity156/SongRequest/releases/download/1.0.2/SongRequest.dll"
-            }
-        ]
-    },
     "SongSettings": {
         "Name": "Song Settings",
         "Author": "octoberU",
