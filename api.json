@@ -298,12 +298,12 @@
         "Author": "Ahriana",
         "RepoName": "AUDICA-Timing-Attack",
         "DisplayAuthor": "Ahriana",
-        "Version": "1.0.0.0",
+        "Version": "1.2.0",
         "Error": false,
         "Download": [
             {
                 "name": "TimingAttack.dll",
-                "browser_download_url": "https://github.com/Ahriana/AUDICA-Timing-Attack/releases/download/1.0.0.0/TimingAttack.dll"
+                "browser_download_url": "https://github.com/Ahriana/AUDICA-Timing-Attack/releases/download/1.2.0/TimingAttack.dll"
             }
         ]
     },
