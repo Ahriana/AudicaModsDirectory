@@ -18,12 +18,12 @@
         "Author": "octoberU",
         "RepoName": "Arena-Loader",
         "DisplayAuthor": "octoberU",
-        "Version": "0.1.5",
+        "Version": "0.2.4",
         "Error": false,
         "Download": [
             {
                 "name": "ArenaLoader.dll",
-                "browser_download_url": "https://github.com/octoberU/Arena-Loader/releases/download/0.1.5/ArenaLoader.dll"
+                "browser_download_url": "https://github.com/octoberU/Arena-Loader/releases/download/0.2.4/ArenaLoader.dll"
             }
         ]
     },
