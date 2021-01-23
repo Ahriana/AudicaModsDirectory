@@ -142,5 +142,11 @@
     "Author": "Contiinuum",
     "RepoName": "AuthorableModifiers",
     "DisplayAuthor": "Continuum"
+  },
+   "AutoLightshow": {
+    "Name": "Auto Lightshow",
+    "Author": "Contiinuum",
+    "RepoName": "AutoLightshow",
+    "DisplayAuthor": "Continuum"
   }
 }
