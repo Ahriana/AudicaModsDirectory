@@ -113,6 +113,12 @@
     "RepoName": "Audica-SongDataLoader",
     "DisplayAuthor": "MeepsKitten"
   },
+   "GunExtras": {
+    "Name": "Gun Extras",
+    "Author": "MeepsKitten",
+    "RepoName": "Audica-Gun-Extras",
+    "DisplayAuthor": "MeepsKitten"
+  },
   "ScoreOverlay": {
     "Name": "Score Overlay",
     "Author": "octoberU",
