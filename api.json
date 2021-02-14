@@ -265,6 +265,20 @@
             }
         ]
     },
+    "GunExtras": {
+        "Name": "Gun Extras",
+        "Author": "MeepsKitten",
+        "RepoName": "Audica-Gun-Extras",
+        "DisplayAuthor": "MeepsKitten",
+        "Version": "1.0.1",
+        "Error": false,
+        "Download": [
+            {
+                "name": "GunExtras.dll",
+                "browser_download_url": "https://github.com/MeepsKitten/Audica-Gun-Extras/releases/download/v1.0.1/GunExtras.dll"
+            }
+        ]
+    },
     "ScoreOverlay": {
         "Name": "Score Overlay",
         "Author": "octoberU",
