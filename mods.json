@@ -119,12 +119,6 @@
     "RepoName": "Audica-Gun-Extras",
     "DisplayAuthor": "MeepsKitten"
   },   
-  "MeepsAudicaUIEnhancements": {
-    "Name": "Meeps' Audica UI Enhancements",
-    "Author": "MeepsKitten",
-    "RepoName": "Meeps-Audica-UI-Enhancements",
-    "DisplayAuthor": "MeepsKitten"
-  },
   "ScoreOverlay": {
     "Name": "Score Overlay",
     "Author": "octoberU",
