@@ -279,6 +279,20 @@
             }
         ]
     },
+    "Meeps' UI Enhancements": {
+        "Name": "Meeps' UI Enhancements",
+        "Author": "MeepsKitten",
+        "RepoName": "Meeps-Audica-UI-Enhancements",
+        "DisplayAuthor": "MeepsKitten",
+        "Version": "1.1.0",
+        "Error": false,
+        "Download": [
+            {
+                "name": "Meeps.UI.Enhancements.dll",
+                "browser_download_url": "https://github.com/MeepsKitten/Meeps-Audica-UI-Enhancements/releases/download/v1.1.0/Meeps.UI.Enhancements.dll"
+            }
+        ]
+    },
     "ScoreOverlay": {
         "Name": "Score Overlay",
         "Author": "octoberU",
