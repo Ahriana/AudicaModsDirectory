@@ -160,5 +160,10 @@
     "Author": "Contiinuum",
     "RepoName": "AutoLightshow",
     "DisplayAuthor": "Continuum"
-  }
+  },
+  "VrMappingTools": {
+    "Name"; "VR Mapping Tools",
+    "Author": "SugarBear125",
+    "RepoName": "VRMappingTools",
+    "DisplayAuthor": "SugarBear125"
 }
