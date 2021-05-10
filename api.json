@@ -172,14 +172,7 @@
         "Author": "Alternity156",
         "RepoName": "AudicaScorePercentage",
         "DisplayAuthor": "Alternity156",
-        "Version": "1.1.1",
-        "Error": false,
-        "Download": [
-            {
-                "name": "ScorePercentage.dll",
-                "browser_download_url": "https://github.com/Alternity156/AudicaScorePercentage/releases/download/1.1.1/ScorePercentage.dll"
-            }
-        ]
+        "Error": true
     },
     "SpectatorCamFix": {
         "Name": "Spectator Cam Fix",
@@ -228,14 +221,7 @@
         "Author": "octoberU",
         "RepoName": "TimingAssist",
         "DisplayAuthor": "octoberU",
-        "Version": "1.1.4",
-        "Error": false,
-        "Download": [
-            {
-                "name": "TimingAssist.dll",
-                "browser_download_url": "https://github.com/octoberU/TimingAssist/releases/download/1.1.4/TimingAssist.dll"
-            }
-        ]
+        "Error": true
     },
     "TrippyMenus": {
         "Name": "Trippy Menus",
@@ -312,14 +298,7 @@
         "Author": "octoberU",
         "RepoName": "ColoredChains",
         "DisplayAuthor": "octoberU",
-        "Version": "0.1.1",
-        "Error": false,
-        "Download": [
-            {
-                "name": "ColoredChains.dll",
-                "browser_download_url": "https://github.com/octoberU/ColoredChains/releases/download/0.1.1/ColoredChains.dll"
-            }
-        ]
+        "Error": true
     },
     "TimingAttack": {
         "Name": "Timing Attack",
