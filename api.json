@@ -32,7 +32,14 @@
         "Author": "Contiinuum",
         "RepoName": "AutoRecenterDisabler",
         "DisplayAuthor": "Alternity156, Continuum",
-        "Error": true
+        "Version": "1.0.1",
+        "Error": false,
+        "Download": [
+            {
+                "name": "AutoRecenterDisabler.dll",
+                "browser_download_url": "https://github.com/Contiinuum/AutoRecenterDisabler/releases/download/1.0.1/AutoRecenterDisabler.dll"
+            }
+        ]
     },
     "CustomModifiers": {
         "Name": "Custom Modifiers",
@@ -81,7 +88,14 @@
         "Author": "Contiinuum",
         "RepoName": "Grind-Mode",
         "DisplayAuthor": "Continuum",
-        "Error": true
+        "Version": "2.1.6",
+        "Error": false,
+        "Download": [
+            {
+                "name": "GrindMode.dll",
+                "browser_download_url": "https://github.com/Contiinuum/Grind-Mode/releases/download/2.1.6/GrindMode.dll"
+            }
+        ]
     },
     "GunBeamRedirectionDisabler": {
         "Name": "Gun Beam Redirection Disabler",
