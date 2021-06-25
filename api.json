@@ -354,7 +354,14 @@
         "Author": "Contiinuum",
         "RepoName": "AuthorableModifiers",
         "DisplayAuthor": "Continuum",
-        "Error": true
+        "Version": "1.2.4",
+        "Error": false,
+        "Download": [
+            {
+                "name": "AuthorableModifiers.dll",
+                "browser_download_url": "https://github.com/Contiinuum/AuthorableModifiers/releases/download/1.2.4/AuthorableModifiers.dll"
+            }
+        ]
     },
     "AutoLightshow": {
         "Name": "Auto Lightshow",
