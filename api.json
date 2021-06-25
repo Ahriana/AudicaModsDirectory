@@ -340,12 +340,12 @@
         "Author": "Contiinuum",
         "RepoName": "TwitchModifiers",
         "DisplayAuthor": "Continuum",
-        "Version": "2.0.8",
+        "Version": "2.0.9",
         "Error": false,
         "Download": [
             {
                 "name": "TwitchModifiers.dll",
-                "browser_download_url": "https://github.com/Contiinuum/TwitchModifiers/releases/download/2.0.8/TwitchModifiers.dll"
+                "browser_download_url": "https://github.com/Contiinuum/TwitchModifiers/releases/download/2.0.9/TwitchModifiers.dll"
             }
         ]
     },
@@ -354,12 +354,12 @@
         "Author": "Contiinuum",
         "RepoName": "AuthorableModifiers",
         "DisplayAuthor": "Continuum",
-        "Version": "1.2.4",
+        "Version": "1.2.5",
         "Error": false,
         "Download": [
             {
                 "name": "AuthorableModifiers.dll",
-                "browser_download_url": "https://github.com/Contiinuum/AuthorableModifiers/releases/download/1.2.4/AuthorableModifiers.dll"
+                "browser_download_url": "https://github.com/Contiinuum/AuthorableModifiers/releases/download/1.2.5/AuthorableModifiers.dll"
             }
         ]
     },
@@ -368,12 +368,12 @@
         "Author": "Contiinuum",
         "RepoName": "AutoLightshow",
         "DisplayAuthor": "Continuum",
-        "Version": "1.6.3",
+        "Version": "1.6.4",
         "Error": false,
         "Download": [
             {
                 "name": "AutoLightshow.dll",
-                "browser_download_url": "https://github.com/Contiinuum/AutoLightshow/releases/download/1.6.3/AutoLightshow.dll"
+                "browser_download_url": "https://github.com/Contiinuum/AutoLightshow/releases/download/1.6.4/AutoLightshow.dll"
             }
         ]
     }
