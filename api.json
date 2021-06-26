@@ -186,12 +186,12 @@
         "Author": "Contiinuum",
         "RepoName": "SpectatorCamFix",
         "DisplayAuthor": "Continuum",
-        "Version": "1.0.1",
+        "Version": "1.0.2",
         "Error": false,
         "Download": [
             {
                 "name": "SpectatorCamFix.dll",
-                "browser_download_url": "https://github.com/Contiinuum/SpectatorCamFix/releases/download/1.0.1/SpectatorCamFix.dll"
+                "browser_download_url": "https://github.com/Contiinuum/SpectatorCamFix/releases/download/1.0.2/SpectatorCamFix.dll"
             }
         ]
     },
